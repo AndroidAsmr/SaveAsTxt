@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SaveAsTxt</string>
+    <string name="data_saved">Data saved.</string>
+    <string name="error_saving_data">Error occurred while saving data.</string>
+    <string name="no_data">No data found.</string>
+    <string name="please_enter_text">Please enter a text</string>
+    <string name="permission_already_granted">Permission granted.</string>
+    <string name="permission_denied">Permission denied. Please accept permissions.</string>
+    <string name="saveastxt">SaveAsTxt</string>
+    <string name="your_text">Your Text</string>
+    <string name="save">Save</string>
+    <string name="saved_text">Saved Text</string>
+</resources>
